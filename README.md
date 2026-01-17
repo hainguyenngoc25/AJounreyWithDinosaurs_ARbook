@@ -1,7 +1,7 @@
 # A Jounrey With Dinosaurs - ARbook
 (ED4110) A Jounrey With Dinosaurs - Interactive AR Book.
 <br>
-Link sản phẩm: https://heyzine.com/flip-book/0011a39d4b.html#page/9
+Link sản phẩm: https://heyzine.com/flip-book/0011a39d4b.html
 <br>
 Cài đặt và sử dụng ứng dụng ARTIVIVE (App Store/ CH Play) để trải nghiệm.
 
