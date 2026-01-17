@@ -10,7 +10,7 @@ Sản phẩm báo cáo cuối kì học phần Các công nghệ giáo dục ti�
 <br>
 GVHD: TS. Nguyễn Thị Huyền
 
-## Đề tài
+## Đề tài:
 Thiết kế 1 cuốn sách tương tác AR thuộc chủ đề to "Hệ sinh thái (động/thực vật) và ngôn ngữ.
 
 ## Nhóm sinh viên thực hiện:
@@ -18,3 +18,6 @@ Thiết kế 1 cuốn sách tương tác AR thuộc chủ đề to "Hệ s
 2. <a href="https://github.com/Dainguyenno1">Nguyễn Xuân Đại - 20231568</a>
 3. <a href="https://github.com/hainguyenngoc25">Nguyễn Ngọc Hải - 20231588</a>
 4. Trịnh Gia Hưng - 20239646
+
+## Link tài liệu học phần:
+(Updating...)
