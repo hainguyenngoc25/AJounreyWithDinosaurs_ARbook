@@ -5,12 +5,6 @@ Link sản phẩm: https://heyzine.com/flip-book/0011a39d4b.html#page/9
 <br>
 Cài đặt và sử dụng ứng dụng ARTIVIVE (App Store/ CH Play) để trải nghiệm.
 
-
-
-Uploading 573237318_24933763606244416_8954952603932911257_n.mp4…
-
-
-
 # ED4110 - Các công nghệ giáo dục tiên tiến (HUST)
 Sản phẩm báo cáo cuối kì học phần Các công nghệ giáo dục tiên tiến (ED4110), Đại học Bách khoa Hà Nội.
 GVHD: TS. Nguyễn Thị Huyền
