@@ -7,6 +7,7 @@ Cài đặt và sử dụng ứng dụng ARTIVIVE (App Store/ CH Play) để tr�
 
 ## ED4110 - Các công nghệ giáo dục tiên tiến (HUST)
 Sản phẩm báo cáo cuối kì học phần Các công nghệ giáo dục tiên tiến (ED4110), Đại học Bách khoa Hà Nội.
+<br>
 GVHD: TS. Nguyễn Thị Huyền
 
 ## Đề tài
